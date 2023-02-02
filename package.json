@@ -51,7 +51,7 @@
     "@wdio/cli": "^6.3.0",
     "@wdio/local-runner": "^6.3.0",
     "@wdio/mocha-framework": "^6.3.0",
-    "@wdio/sauce-service": "^6.3.2",
+    "@wdio/sauce-service": "^8.3.2",
     "@wdio/selenium-standalone-service": "^6.1.14",
     "@wdio/spec-reporter": "^6.3.0",
     "@wdio/static-server-service": "^6.1.14",
